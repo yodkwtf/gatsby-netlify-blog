@@ -16,9 +16,12 @@
   "dependencies": {
     "gatsby": "^3.14.2",
     "gatsby-plugin-netlify-cms": "^5.14.0",
+    "gatsby-source-filesystem": "^3.14.0",
+    "gatsby-transformer-remark": "^4.11.0",
     "netlify-cms-app": "^2.15.52",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-markdown": "^7.0.1"
   },
   "devDependencies": {
     "prettier": "2.4.1"
