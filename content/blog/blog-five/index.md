@@ -310,5 +310,4 @@ ___
 Block code "fences"
 
 ```
-*here be dragons*
 :::
