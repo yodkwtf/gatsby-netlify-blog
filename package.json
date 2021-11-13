@@ -24,7 +24,11 @@
     "react-markdown": "^7.0.1"
   },
   "devDependencies": {
-    "prettier": "2.4.1"
+    "autoprefixer": "^10.4.0",
+    "gatsby-plugin-postcss": "^5.1.0",
+    "postcss": "^8.3.11",
+    "prettier": "2.4.1",
+    "tailwindcss": "^2.2.19"
   },
   "repository": {
     "type": "git",
